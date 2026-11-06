@@ -1,0 +1,4 @@
+D:/udvikling/IoT/_build/IoT/default/CMakeFiles/IoT_default_default_XC8_compile.dir
+D:/udvikling/IoT/_build/IoT/default/CMakeFiles/IoT_default_image_7kwz5KGt.dir
+D:/udvikling/IoT/_build/IoT/default/CMakeFiles/edit_cache.dir
+D:/udvikling/IoT/_build/IoT/default/CMakeFiles/rebuild_cache.dir

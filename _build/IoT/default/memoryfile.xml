@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="D:\udvikling\IoT\out\IoT\default.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>32768</length>                 
+      <used>1394</used>                     
+      <free>31374</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>2048</length>                 
+      <used>42</used>                     
+      <free>2006</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

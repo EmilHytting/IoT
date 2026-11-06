@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/udvikling/IoT/_build/IoT/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/emilm/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\IoT_default_default_XC8_compile.dir\\D_\\udvikling\\IoT\\Source\\Timer\\Timer.c.o -c D:\\udvikling\\IoT\\Source\\Timer\\Timer.c",
+  "file": "D:/udvikling/IoT/Source/Timer/Timer.c",
+  "output": "D:/udvikling/IoT/_build/IoT/default/CMakeFiles/IoT_default_default_XC8_compile.dir/D_/udvikling/IoT/Source/Timer/Timer.c.o"
+},
+{
+  "directory": "D:/udvikling/IoT/_build/IoT/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/emilm/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\IoT_default_default_XC8_compile.dir\\D_\\udvikling\\IoT\\Source\\UART\\UART.c.o -c D:\\udvikling\\IoT\\Source\\UART\\UART.c",
+  "file": "D:/udvikling/IoT/Source/UART/UART.c",
+  "output": "D:/udvikling/IoT/_build/IoT/default/CMakeFiles/IoT_default_default_XC8_compile.dir/D_/udvikling/IoT/Source/UART/UART.c.o"
+},
+{
+  "directory": "D:/udvikling/IoT/_build/IoT/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/emilm/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\IoT_default_default_XC8_compile.dir\\D_\\udvikling\\IoT\\main.c.o -c D:\\udvikling\\IoT\\main.c",
+  "file": "D:/udvikling/IoT/main.c",
+  "output": "D:/udvikling/IoT/_build/IoT/default/CMakeFiles/IoT_default_default_XC8_compile.dir/D_/udvikling/IoT/main.c.o"
+}
+]
